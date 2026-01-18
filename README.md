@@ -20,7 +20,7 @@ With a strong foundation in **Algorithms** and **Data Science**, I am passionate
 
 *   🔭 I’m currently working on **Full Stack Architectures & AI Integration**
 *   🌱 I’m currently learning **Advanced Deep Learning & MLOps**
-*   📫 How to reach me: **[INSERT EMAIL HERE]**
+*   📫 How to reach me: **mustapha.sghaier777@gmail.com**
 
 ---
 
