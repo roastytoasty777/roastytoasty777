@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I am a **Solution-oriented Computer Science student** with expertise in the full software development lifecycle. I specialize in building scalable applications by bridging the gap between robust backends and dynamic frontends. 
+I am a **Solution-oriented Computer Science student** with expertise in the full software development lifecycle. I specialize in building scalable applications by bridging the gap between robust backends and dynamic frontends.
 
 With a strong foundation in **Algorithms** and **Data Science**, I am passionate about integrating **Artificial Intelligence** solutions into real-world projects to solve complex problems.
 
@@ -67,7 +67,7 @@ With a strong foundation in **Algorithms** and **Data Science**, I am passionate
   
 ### 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/mustapha-sghaier])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[mustapha.sghaier777@gmail.com])
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-sghaier/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustapha.sghaier777@gmail.com)
 
 </div>
