@@ -1,72 +1,92 @@
 <div align="center">
 
-# Hi there, I'm Mustapha Sghaier! 👋
+# Hi, I'm Mustapha Sghaier 👋
 
-### 👨‍💻 Full-Stack Developer · 🤖 AI Enthusiast · 🎓 Computer Science Student
+### Full-Stack Developer · AI Integration · Computer Engineering Student
 
-<p>
-  <a href="https://github.com/roastytoasty777">
-    <img src="https://komarev.com/ghpvc/?username=roastytoasty777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-  <a href="mailto:mustapha.sghaier777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=roastytoasty777&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
 </div>
 
+---
+
 ## 🚀 About Me
 
-I'm a solution-oriented **Computer Science student and full-stack developer** who enjoys designing scalable applications and turning complex problems into reliable, user-focused solutions.
+I'm a computer engineering student at **TEK-UP University** (Tunis), building full-stack web applications in **TypeScript and Python** with a focus on integrating AI into real products.
 
-My interests span the complete software development lifecycle—from building robust backend systems and modern frontend experiences to integrating data-driven and artificial intelligence solutions into real-world products.
+- 🔭 Currently building **Wadhah**, an AI-powered ERP for Tunisian SMEs
+- 🌱 Currently learning **RAG and LLM application development**
+- 🎯 Looking for an internship in full-stack or AI engineering
+- 📫 Reach me at **mustapha.sghaier777@gmail.com**
 
-- 🔭 Currently working on **full-stack architectures and AI integration**
-- 🌱 Currently learning **advanced deep learning and MLOps**
-- 🧠 Interested in **algorithms, data science, distributed systems, and intelligent applications**
-- 📫 Reach me at **[mustapha.sghaier777@gmail.com](mailto:mustapha.sghaier777@gmail.com)**
+---
+
+## 📁 Projects
+
+### MetaPro — Multi-tenant social media management SaaS *(final-year project)*
+NestJS · Next.js · PostgreSQL · Prisma · Redis · BullMQ · Docker
+
+- Modular NestJS back-end with 15+ modules, REST API documented with Swagger
+- OAuth 2.0 integration with Meta, LinkedIn and TikTok, with scheduled publishing through BullMQ queues
+- JWT authentication, role-based access control and per-client data isolation
+- AI assistant (Llama 3.3 70B via Groq) for caption and hashtag generation
+
+### Wadhah — AI-powered ERP for Tunisian SMEs *(in development)*
+FastAPI · Next.js · TypeScript · PostgreSQL · SQLAlchemy
+
+- Stock, sales, invoicing, purchasing, accounting, payroll and HR modules with per-company data isolation
+- Double-entry accounting generated automatically, with tamper-evident entries chained by SHA-256 hash
+- Supplier invoice extraction from PDFs and images with an LLM, and a natural-language assistant over company data
+- Sales forecasting and restocking recommendations in Python
+
+---
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend Development
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### Backend
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-### ⚙️ Backend & Infrastructure
+### Data & AI
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 Data Science & AI
+**Also familiar with:** Java, Spring Boot, Angular, MySQL
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### 🔧 Tools & Workflow
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=roastytoasty777&show_icons=true&theme=radical&hide_border=true" alt="Mustapha's GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roastytoasty777&layout=compact&theme=radical&hide_border=true" alt="Top programming languages" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roastytoasty777&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roastytoasty777&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
-## 🤝 Let's Connect
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-sghaier/)
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustapha-sghaier/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustapha.sghaier777@gmail.com)
 
 </div>
