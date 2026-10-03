@@ -21,26 +21,6 @@ I'm a computer engineering student at **TEK-UP University** (Tunis), building fu
 
 ---
 
-## 📁 Projects
-
-### MetaPro — Multi-tenant social media management SaaS *(final-year project)*
-NestJS · Next.js · PostgreSQL · Prisma · Redis · BullMQ · Docker
-
-- Modular NestJS back-end with 15+ modules, REST API documented with Swagger
-- OAuth 2.0 integration with Meta, LinkedIn and TikTok, with scheduled publishing through BullMQ queues
-- JWT authentication, role-based access control and per-client data isolation
-- AI assistant (Llama 3.3 70B via Groq) for caption and hashtag generation
-
-### Wadhah — AI-powered ERP for Tunisian SMEs *(in development)*
-FastAPI · Next.js · TypeScript · PostgreSQL · SQLAlchemy
-
-- Stock, sales, invoicing, purchasing, accounting, payroll and HR modules with per-company data isolation
-- Double-entry accounting generated automatically, with tamper-evident entries chained by SHA-256 hash
-- Supplier invoice extraction from PDFs and images with an LLM, and a natural-language assistant over company data
-- Sales forecasting and restocking recommendations in Python
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
